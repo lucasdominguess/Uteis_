@@ -1,0 +1,78 @@
+--MIMEBoundary_1d42804f5cae27610706c13ff7852fb38b865a83b71254e8
+Content-Type: text/xml; charset=UTF-8
+Content-Transfer-Encoding: binary
+Content-ID: <0.2d42804f5cae27610706c13ff7852fb38b865a83b71254e8@apache.org>
+
+<?xml version='1.0' encoding='UTF-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"><soapenv:Body><ns:pesquisarPorFiltroResponse xmlns:ns="http://service.smssp.fundacao.br" xmlns:ax217="http://domain.smssp.fundacao.br/xsd"><ns:return xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ax217:Pessoa">
+<ax217:certidaoAdministrativaIndio xsi:nil="true" />
+<ax217:certidaoCasamento xsi:nil="true" />
+<ax217:certidaoDivorcio xsi:nil="true" />
+<ax217:certidaoNascimento xsi:nil="true" />
+<ax217:cnh xsi:nil="true" />
+<ax217:codigoCnesEstabelecimentoCadastro xsi:nil="true" />
+<ax217:codigoCnesEstabelecimentoVinculo>6332420</ax217:codigoCnesEstabelecimentoVinculo>
+<ax217:codigoConvenioSus xsi:nil="true" />
+<ax217:codigoEscolaridadeSus xsi:nil="true" />
+<ax217:codigoEtniaSus xsi:nil="true" />
+<ax217:codigoMunicipioNascimentoSus xsi:nil="true" />
+<ax217:codigoOcupacaoSus xsi:nil="true" />
+<ax217:codigoPaisNascimento xsi:nil="true" />
+<ax217:codigoRacaSus>03</ax217:codigoRacaSus>
+<ax217:codigoSexoSus>M</ax217:codigoSexoSus>
+<ax217:codigoSituacaoFamiliarSus xsi:nil="true" />
+<ax217:codigoTipoNacionalidade>2</ax217:codigoTipoNacionalidade>
+<ax217:contato xsi:type="ax217:Contato">
+<ax217:dddCelular>11</ax217:dddCelular>
+<ax217:dddComercial xsi:nil="true" />
+<ax217:dddContato xsi:nil="true" />
+<ax217:dddResidencial>11</ax217:dddResidencial>
+<ax217:email xsi:nil="true" />
+<ax217:nomeContato xsi:nil="true" />
+<ax217:semCelular>N</ax217:semCelular>
+<ax217:telefoneCelular>971062111</ax217:telefoneCelular>
+<ax217:telefoneComercial xsi:nil="true" />
+<ax217:telefoneContato xsi:nil="true" />
+<ax217:telefoneResidencial>59779825</ax217:telefoneResidencial></ax217:contato>
+<ax217:cpf xsi:type="ax217:CPF">
+<ax217:justificativa xsi:nil="true" />
+<ax217:numero>41487305869</ax217:numero></ax217:cpf>
+<ax217:ctps xsi:nil="true" />
+<ax217:dataEntradaPais xsi:nil="true" />
+<ax217:dataNascimento>1993-05-25T00:00:00.000-03:00</ax217:dataNascimento>
+<ax217:dataNaturalizacao xsi:nil="true" />
+<ax217:dnv xsi:nil="true" />
+<ax217:endereco xsi:type="ax217:Endereco">
+<ax217:bairro>JARDIM REPRESA (PARELHEIROS)</ax217:bairro>
+<ax217:cep>04895800</ax217:cep>
+<ax217:codigoDistritoAdministrativoSUS>55</ax217:codigoDistritoAdministrativoSUS>
+<ax217:codigoMunicipioResidenciaSUS>355030</ax217:codigoMunicipioResidenciaSUS>
+<ax217:codigoOrigemEndereco>3</ax217:codigoOrigemEndereco>
+<ax217:complemento xsi:nil="true" />
+<ax217:logradouro>HUMBERTO BANDINI</ax217:logradouro>
+<ax217:numeroResidencia>296</ax217:numeroResidencia>
+<ax217:referencia>BAR DO PESCADOR</ax217:referencia>
+<ax217:semNumero>N</ax217:semNumero>
+<ax217:tipoLogradouro>R</ax217:tipoLogradouro></ax217:endereco>
+<ax217:frequentaEscola xsi:nil="true" />
+<ax217:identidade xsi:type="ax217:Identidade">
+<ax217:codigoOrgaoEmissorSus>10</ax217:codigoOrgaoEmissorSus>
+<ax217:codigoUfSus>35</ax217:codigoUfSus>
+<ax217:dataEmissao>2012-05-15T00:00:00.000-03:00</ax217:dataEmissao>
+<ax217:numero>492420221</ax217:numero></ax217:identidade>
+<ax217:identidadeEstrangeiro xsi:nil="true" />
+<ax217:maeDesconhecida>N</ax217:maeDesconhecida>
+<ax217:nome>LUCAS JOAQUIM DOMINGUES</ax217:nome>
+<ax217:nomeMae>EUGENIA MARIA DE SANTANA DOMINGUES</ax217:nomeMae>
+<ax217:nomePai>MARCELO MARCIO DOMINGUES</ax217:nomePai>
+<ax217:nomeSocial xsi:nil="true" />
+<ax217:numeroCns>801440416496739</ax217:numeroCns>
+<ax217:numeroCnsUsuario xsi:nil="true" />
+<ax217:observacao xsi:nil="true" />
+<ax217:paiDesconhecido>N</ax217:paiDesconhecido>
+<ax217:passaporte xsi:nil="true" />
+<ax217:pisPasep xsi:nil="true" />
+<ax217:portariaNaturalizacao xsi:nil="true" />
+<ax217:possuiConvenio>N</ax217:possuiConvenio>
+<ax217:protocoloCadastro>46816208</ax217:protocoloCadastro>
+<ax217:tituloEleitor xsi:nil="true" /></ns:return></ns:pesquisarPorFiltroResponse></soapenv:Body></soapenv:Envelope>
+--MIMEBoundary_1d42804f5cae27610706c13ff7852fb38b865a83b71254e8--

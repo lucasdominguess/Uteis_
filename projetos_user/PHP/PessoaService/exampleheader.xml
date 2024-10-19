@@ -1,0 +1,18 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://service.smssp.fundacao.br" xmlns:xsd="http://domain.smssp.fundacao.br/xsd">
+<soapenv:Header xmlns:ns3="http://auth.smssp.atech.br">
+<ns3:login>GETCONNECT</ns3:login>
+<ns3:password>GETCONNECT!@#$</ns3:password>
+<ns3:sistema>eSAUDESP</ns3:sistema>
+</soapenv:Header>
+<soapenv:Body>
+<ser:pesquisarPorFiltro>
+<!--Optional:-->
+<ser:filtroPesquisaPessoa>
+<!--Optional:-->
+<xsd:dataNascimento>1993-05-25T00:00:00.000-03:00</xsd:dataNascimento>
+<!--Optional:-->
+<xsd:nome>lucas joaquim domingues</xsd:nome>
+</ser:filtroPesquisaPessoa>
+</ser:pesquisarPorFiltro>
+</soapenv:Body>
+</soapenv:Envelope>',
